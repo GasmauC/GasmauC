@@ -1,4 +1,4 @@
-# Hola! 👋 Soy Gaston Mauricio
+# Hola! 👋 Soy Gaston Mauricio Cane
 
 ## 👨🏽‍💻 Sobre mí:
 Soy de Córdoba, Argentina.
