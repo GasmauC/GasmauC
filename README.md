@@ -1,12 +1,11 @@
-
 # Hola! 👋 Soy Gaston Mauricio
 
 ## 👨🏽‍💻 Sobre mí:
-Soy de Córdoba, Argentina. Actualmente estoy estudiando **Ciencia de Datos e Inteligencia Artificial** en el Instituto Politécnico Superior Córdoba.
+Soy de Córdoba, Argentina.
 
-Aunque me gradué como Desarrollador Full Stack en 2023, mi pasión y enfoque actual están en el análisis de datos y la IA. El próximo año retomaré la tecnicatura en Desarrollo de Software para complementar mi perfil.
+Actualmente estoy cursando el 1er año de la **Tecnicatura Superior en Desarrollo de Software** y, simultáneamente, la **Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial** en el Instituto Politécnico Superior Córdoba.
 
-Me especializo en transformar datos en decisiones inteligentes.
+Aunque cuento con formación previa como Desarrollador Full Stack (2023), hoy mi enfoque profesional combina el desarrollo de software con el análisis de datos y la IA.
 
 ## 🛠️ Habilidades y Stack Tecnológico
 
@@ -27,6 +26,3 @@ Me especializo en transformar datos en decisiones inteligentes.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
----
-### 📊 Estadísticas
-![Estadísticas de Gastón](https://github-readme-stats.vercel.app/api?username=GasmauC&show_icons=true&theme=radical)
