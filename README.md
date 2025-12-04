@@ -1,28 +1,30 @@
-# Hola! 👋 Soy Gaston Mauricio Cane
+# Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Soy Gaston Mauricio
 
-## 👨🏽‍💻 Sobre mí:
-Soy de Córdoba, Argentina.
+## 👨🏽‍💻 Developer & Data Scientist in Training
 
-Actualmente estoy cursando el 1er año de la **Tecnicatura Superior en Desarrollo de Software** y, simultáneamente, la **Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial** en el Instituto Politécnico Superior Córdoba.
+Soy de Córdoba, Argentina. Actualmente estoy cursando simultáneamente las tecnicaturas superiores en **Desarrollo de Software** y **Ciencia de Datos e Inteligencia Artificial** en el Instituto Politécnico Superior Córdoba.
 
-Aunque cuento con formación previa como Desarrollador Full Stack (2023), hoy mi enfoque profesional combina el desarrollo de software con el análisis de datos y la IA.
+Aunque me gradué como Desarrollador Full Stack en 2023, mi pasión actual es unir el mundo del código con el análisis de datos para crear soluciones inteligentes.
 
-## 🛠️ Habilidades y Stack Tecnológico
+## 🛠️ Habilidades y Tecnologías
 
-### **🧠 Data Science & AI**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+Dejé atrás las insignias antiguas para mostrarte mi stack de una forma más visual:
 
-### **📊 Análisis y Visualización**
-![Power Bi](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,powerbi,mysql,git,github,vscode,excel&perline=10" />
+  </a>
+</div>
 
-### **🗄️ Bases de Datos**
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+<br>
 
-### **🤖 Otras Herramientas**
-![ChatGPT](https://img.shields.io/badge/Generative_AI-00A67E?style=for-the-badge&logo=openai&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+| Área | Tecnologías |
+| --- | --- |
+| **Ciencia de Datos** | Python, Pandas, NumPy, Scikit-learn |
+| **Análisis** | Power BI, Excel |
+| **Bases de Datos** | MySQL |
+| **Herramientas** | Git, GitHub, VS Code |
 
+---
+### 📊 Estadísticas
+![Estadísticas de Gastón](https://github-readme-stats.vercel.app/api?username=GasmauC&show_icons=true&theme=radical)
