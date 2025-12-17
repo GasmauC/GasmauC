@@ -1,27 +1,27 @@
-# Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Soy Gaston Cane
+# Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Gaston Cane
 
-## 👨🏽‍💻 Sobre mí:
-Soy de Córdoba, Argentina.
+## 👨🏽‍💻 About me:
+I'm from Córdoba, Argentina.
 
-Actualmente estoy cursando el 1er año de la **Tecnicatura Superior en Desarrollo de Software** y, simultáneamente, la **Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial** en el Instituto Politécnico Superior Córdoba.
+I am currently in my 1st year of the **Higher Technical Degree in Software Development** and, simultaneously, the **Higher Technical Degree in Data Science and Artificial Intelligence** at the Instituto Politécnico Superior Córdoba.
 
-Aunque cuento con formación previa como Desarrollador Full Stack (2023), hoy mi enfoque profesional combina el desarrollo de software con el análisis de datos y la IA.
+While I have a background as a Full Stack Developer (2023), my current professional focus combines software development with data analysis and AI.
 
-## 🛠️ Habilidades y Stack Tecnológico
+## 🛠️ Skills and Tech Stack
 
 ### **🧠 Data Science & AI**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### **📊 Análisis y Visualización**
+### **📊 Analysis and Visualization**
 ![Power Bi](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### **🗄️ Bases de Datos**
+### **🗄️ Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### **🤖 Otras Herramientas**
+### **🤖 Other Tools**
 ![ChatGPT](https://img.shields.io/badge/Generative_AI-00A67E?style=for-the-badge&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
